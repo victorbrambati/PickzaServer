@@ -1,0 +1,86 @@
+{
+  "sizes": [
+    {
+      "id": 1,
+      "size": "Small",
+      "maxIngredients": 5,
+      "price": 8,
+      "imageUrl": "https://res.cloudinary.com/victorbrambati/image/upload/v1604247422/Pickza/small_mvkrml.png"
+    },
+    {
+      "id": 2,
+      "size": "Medium",
+      "maxIngredients": 7,
+      "price": 10,
+      "imageUrl": "https://res.cloudinary.com/victorbrambati/image/upload/v1604247834/Pickza/Medium-or-pepperoni_tnnaun.png"
+    },
+    {
+      "id": 3,
+      "size": "Large",
+      "maxIngredients": 9,
+      "price": 12,
+      "imageUrl": "https://res.cloudinary.com/victorbrambati/image/upload/v1604247834/Pickza/Large-or-thin_vjpxeq.png"
+    }
+  ],
+  "crusts": [
+    {
+      "id": 1,
+      "crust": "Thick",
+      "price": 4,
+      "imageUrl": "https://res.cloudinary.com/victorbrambati/image/upload/v1604247422/Pickza/small_mvkrml.png"
+    },
+    {
+      "id": 2,
+      "crust": "Thin",
+      "price": 2,
+      "imageUrl": "https://res.cloudinary.com/victorbrambati/image/upload/v1604247834/Pickza/Large-or-thin_vjpxeq.png"
+    }
+  ],
+  "toppings": [
+    {
+      "id": 1,
+      "topping": "Sausage",
+      "imageUrl": "https://res.cloudinary.com/victorbrambati/image/upload/v1604247834/Pickza/Sausage_kroxeg.png"
+    },
+    {
+      "id": 2,
+      "topping": "Onions",
+      "imageUrl": "https://res.cloudinary.com/victorbrambati/image/upload/v1604247834/Pickza/Onions_spbqbi.png"
+    },
+    {
+      "id": 3,
+      "topping": "Pepperoni",
+      "imageUrl": "https://res.cloudinary.com/victorbrambati/image/upload/v1604247834/Pickza/Medium-or-pepperoni_tnnaun.png"
+    },
+    {
+      "id": 4,
+      "topping": "Bacon",
+      "imageUrl": "https://res.cloudinary.com/victorbrambati/image/upload/v1604247834/Pickza/Bacon_oegk26.png"
+    },
+    {
+      "id": 5,
+      "topping": "Extra cheese",
+      "imageUrl": "https://res.cloudinary.com/victorbrambati/image/upload/v1604247834/Pickza/Extra_cheese_lqij8p.png"
+    },
+    {
+      "id": 6,
+      "topping": "Black Olives",
+      "imageUrl": "https://res.cloudinary.com/victorbrambati/image/upload/v1604247834/Pickza/Black_Olives_azagud.png"
+    },
+    {
+      "id": 7,
+      "topping": "Green peppers",
+      "imageUrl": "https://res.cloudinary.com/victorbrambati/image/upload/v1604247834/Pickza/Green_peppers_ooul3l.png"
+    },
+    {
+      "id": 8,
+      "topping": "Pineapple",
+      "imageUrl": "https://res.cloudinary.com/victorbrambati/image/upload/v1604247834/Pickza/Pineapple_cmolsy.png"
+    },
+    {
+      "id": 9,
+      "topping": "Spinach",
+      "imageUrl": "https://res.cloudinary.com/victorbrambati/image/upload/v1604247835/Pickza/Spinach_jejln6.png"
+    }
+  ]
+}
